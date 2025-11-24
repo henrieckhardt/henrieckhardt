@@ -45,7 +45,7 @@
 ### 🔥 **dynamicAPI**
 A modern full-stack webapp built with **python** and **React**  
 Setup custom databases and tables and create individual api Endpoints
-➡️ [Zum Repository »](https://github.com/henrieckhardt/dynamicapi)
+➡️ [View Repository »](https://github.com/henrieckhardt/dynamicapi)
 
 ---
 
